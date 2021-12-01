@@ -5,6 +5,7 @@
 - [Brian Tsai](https://github.com/bpsimusic)
 - [Aeyon Ahmad](https://github.com/AeyonAhmad)
 - [Alan Kemboi](https://github.com/alankemboi)
+- [Jason Lusk] (https://github.com/jasonlvsk)
 - [Dayce](https://github.com/LDesse)
 - [Dorival](https://github.com/DorivalJunior23)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
